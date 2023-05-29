@@ -15,7 +15,7 @@ Because Danny had a few years of experience as a data scientist - he was very aw
 He has prepared for us an entity relationship diagram of his database design but requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations.
 
 ### Entity Relationship Diagram
-![2PizzaRunner_ERdiagram](https://user-images.githubusercontent.com/116126763/221021905-45de5075-1355-4efe-bbd9-7099d30f0608.PNG)
+![2PizzaRunner_ERdiagram](https://github.com/elizabethygonz/SQL/blob/main/8_Week_SQL_Challenge/Case_Study_2/Pizza_Runner.png)
 
 **Table 1:** `runners`  
 The runners table shows the registration_date for each new runner.
