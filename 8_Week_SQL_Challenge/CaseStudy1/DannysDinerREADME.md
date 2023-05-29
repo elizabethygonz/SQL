@@ -18,13 +18,14 @@ Danny has shared with you 3 key datasets for this case study:
 * `members`
 
 ### Entity Relationship Diagram
-![1DannysDiner_ERdiagram](https://user-images.githubusercontent.com/116126763/221011128-7889e2b4-3907-4793-9628-92152a6903a0.PNG)
+![1DannysDiner_ERdiagram](https://github.com/elizabethygonz/SQL/blob/main/8_Week_SQL_Challenge/CaseStudy1/DD.png)
 
-**Table 1:** `sales`  
+### Datasets 
+**Sales** 
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 
-**Table 2:** `menu`  
+**Menu**  
 The menu table maps the product_id to the actual product_name and price of each menu item.
 
-**Table 3:** `members`  
+**Members** 
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
